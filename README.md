@@ -31,9 +31,6 @@ A modern Laravel-based Sales Management System with customer management, product
 ### 👥 Customer List
 ![Customer List](screenshots/customer%20list.png)
 
-### 🧾 Invoice View with Notes
-![Invoice View](screenshots/invoice%20view%20with%20note.png)
-
 ### ➕ Product Add
 ![Product Add](screenshots/product%20add.png)
 
@@ -41,10 +38,16 @@ A modern Laravel-based Sales Management System with customer management, product
 ![Product Edit](screenshots/product%20edit.png)
 
 ### 📦 Product List with Notes
-![Product List with Notes](screenshots/product_list_with__note.png)
+![Product List with Notes](screenshots/product_list_with_note.png)
 
 ### 📋 Sales List with Filters, Invoice, Delete
 ![Sales List](screenshots/sales%20list%20with%20filter%20invoice%20delter.png)
+
+### 📋 Sales List with Filters, Invoice, Delete
+![Sales Add](screenshots/add%20sales.png)
+
+### 🧾 Invoice View with Notes
+![Invoice View](screenshots/invoice%20view%20with%20note.png)
 
 ### ♻️ Trash with Restore
 ![Trash with Restore](screenshots/trash%20with%20restore.png)
