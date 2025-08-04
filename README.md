@@ -2,16 +2,55 @@
 
 A modern Laravel-based Sales Management System with customer management, product handling, sales entry, notes, and soft-delete support. Built with Tailwind CSS for a clean UI.
 
-## Features
+## ✨ Features
 
-- Customer Management (Add, Edit, Delete, Soft Delete)
-- Product Management with notes
-- Sales Entry with dynamic line items
-- Sales dynamic filter
-- Notes (polymorphic relation for products/sales)
-- Advanced form validation
-- Responsive UI with Tailwind CSS
-- Pagination, soft deletes, and alerts
+- 👥 Customer Management (Add, Edit, Delete, Soft Delete)
+- 📦 Product Management with Notes
+- 🧾 Sales Entry with Dynamic Line Items
+- 🔍 Sales Filter, Search, and Pagination
+- 🗑️ Trash View with Restore Option
+- 📝 Attach Notes to Sales and Products (Polymorphic Relation)
+- ✅ Advanced Form Validation
+- 💻 Responsive UI with Tailwind CSS
+- 📄 Pagination, Soft Deletes, and Alerts
+
+
+---
+
+## 📸 Screenshots
+
+### 🧾 Add Sales
+![Add Sales](screenshots/add%20sales.png)
+
+### 👤 Customer Add
+![Customer Add](screenshots/customer%20add.png)
+
+### 👤 Customer Edit
+![Customer Edit](screenshots/customer%20edit.png)
+
+### 👥 Customer List
+![Customer List](screenshots/customer%20list.png)
+
+### 🧾 Invoice View with Notes
+![Invoice View](screenshots/invoice%20view%20with%20note.png)
+
+### ➕ Product Add
+![Product Add](screenshots/product%20add.png)
+
+### ✏️ Product Edit
+![Product Edit](screenshots/product%20edit.png)
+
+### 📦 Product List with Notes
+![Product List with Notes](screenshots/product_list_with__note.png)
+
+### 📋 Sales List with Filters, Invoice, Delete
+![Sales List](screenshots/sales%20list%20with%20filter%20invoice%20delter.png)
+
+### ♻️ Trash with Restore
+![Trash with Restore](screenshots/trash%20with%20restore.png)
+
+---
+
 
 ## Technologies
 
